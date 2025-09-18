@@ -44,7 +44,6 @@ A modern, intelligent text rewriting application built with Next.js that transfo
 
 ```bash
 git clone https://github.com/jaseemuddinn/contextAwareRewriter.git
-cd contextrewritter
 npm install
 ```
 
