@@ -25,7 +25,7 @@ This is a modern web application that transforms text using AI-powered rewriting
 
 1. **Fork and clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/contextAwareRewriter.git
+   git clone https://github.com/jaseemuddinn/contextAwareRewriter.git
    cd contextAwareRewriter
    ```
 
